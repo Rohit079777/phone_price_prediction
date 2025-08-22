@@ -1,0 +1,13 @@
+Phone Price Pridiction Explanation
+
+If the resale value column is present → The ML model will train properly and learn the actual patterns between features (brand, RAM, storage, age, condition) and the resale price.
+
+If the resale value column is missing → The model cannot be trained, and you’ll have to use a manual depreciation formula to estimate the price instead.
+
+
+
+In Hindi 
+
+Agar resale value column hai → ML model sahi se train hoga aur actual patterns seekhega.
+
+Agar resale value column nahi hai → model train nahi hoga, tumhe manually depreciation formula banana padega.
